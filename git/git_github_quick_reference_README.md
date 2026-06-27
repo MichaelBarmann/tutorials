@@ -143,9 +143,6 @@ git push
 ```
 
 
-
-> \[!TIP]
-
 > ### Daily Workflow After Setup
 
 >
