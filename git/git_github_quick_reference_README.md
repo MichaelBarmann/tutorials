@@ -142,9 +142,7 @@ git push
 
 ```
 
-
-> ### Daily Workflow After Setup
-
+### Daily Workflow After Setup
 >
 > ```powershell
 > git status
