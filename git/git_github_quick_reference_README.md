@@ -12,7 +12,7 @@ For PDE/ODE projects, Git provides a record of how solvers, notebooks, and utili
 
 
 
-\## Setting Up a New GitHub Repository
+## Setting Up a New GitHub Repository
 
 
 
